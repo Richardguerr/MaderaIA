@@ -1,0 +1,18 @@
+[
+    {
+        "prompt": "Genera un precio y define algunas características para una silla de madera cuyo precio por unidad es de 150 euros.",
+        "response": "Características de la Silla de Madera: Tipo: Silla. Material: Madera de Pino. Acabado: Barniz Natural. Color: Madera Natural. Peso: 8 kg. Diseño: Clásico. Características: Respaldo ergonómico, Patas estables, Fácil de apilar. Uso: Interior. Marca: PineCraft. Cálculo del Precio: El precio por unidad de esta silla de madera es de 150 euros. Ejemplos de precios para diferentes cantidades: 1 Unidad: 150 euros, 2 Unidades: 300 euros, 3 Unidades: 450 euros, 4 Unidades: 600 euros, 5 Unidades: 750 euros. Esta silla de madera está hecha de madera de pino de alta calidad, con un acabado de barniz natural para resaltar su belleza y durabilidad. Su diseño clásico y características ergonómicas la hacen ideal para uso en interiores."
+    },
+    {
+        "prompt": "Genera un precio y define algunas características para una mesa de madera cuyo precio por unidad es de 250 euros.",
+        "response": "Características de la Mesa de Madera: Tipo: Mesa de Comedor. Dimensiones: 160 cm (Longitud) x 90 cm (Ancho) x 75 cm (Altura). Material: Madera de Cerezo. Acabado: Aceite de Tung. Color: Cerezo Natural. Peso: 35 kg. Diseño: Rústico. Características: Tablero grueso, Patas robustas en forma de trípode, Superficie resistente a manchas. Uso: Interior. Marca: CherryWood. Cálculo del Precio: El precio por unidad de esta mesa de madera es de 250 euros. Ejemplos de precios para diferentes cantidades: 1 Unidad: 250 euros, 2 Unidades: 500 euros, 3 Unidades: 750 euros, 4 Unidades: 1000 euros, 5 Unidades: 1250 euros. Esta mesa de madera está hecha de madera de cerezo de alta calidad, con un acabado de aceite de tung para realzar su belleza natural y protegerla contra daños. Su diseño rústico y características duraderas la hacen perfecta para reuniones familiares y cenas."
+    },
+    {
+        "prompt": "Genera un precio y define algunas características para una estantería de madera cuyo precio por unidad es de 180 euros.",
+        "response": "Características de la Estantería de Madera: Tipo: Estantería de Pared. Dimensiones: 150 cm (Altura) x 80 cm (Ancho) x 30 cm (Profundidad). Material: Madera de Abedul. Acabado: Pintura Blanca. Peso: 20 kg. Diseño: Moderno. Características: Estantes ajustables, Fácil de montar en la pared, Espacio para almacenamiento decorativo. Uso: Interior. Marca: BirchCraft. Cálculo del Precio: El precio por unidad de esta estantería de madera es de 180 euros. Ejemplos de precios para diferentes cantidades: 1 Unidad: 180 euros, 2 Unidades: 360 euros, 3 Unidades: 540 euros, 4 Unidades: 720 euros, 5 Unidades: 900 euros. Esta estantería de madera está hecha de madera de abedul de alta calidad, con un acabado de pintura blanca para un aspecto moderno y elegante. Su diseño funcional y características ajustables la hacen ideal para organizar libros, decoraciones y otros objetos en cualquier hogar."
+    },
+    {
+        "prompt": "Genera un precio y define algunas características para un escritorio de madera cuyo precio por unidad es de 400 euros.",
+        "response": "Características del Escritorio de Madera: Tipo: Escritorio de Trabajo. Dimensiones: 140 cm (Ancho) x 70 cm (Profundidad) x 75 cm (Altura). Material: Madera de Nogal. Acabado: Aceite de Linaza. Color: Nogal Natural. Peso: 30 kg. Diseño: Elegante y Funcional. Características: Amplio espacio de trabajo, Cajón para almacenamiento, Patas robustas."
+    }
+]

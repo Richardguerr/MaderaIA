@@ -1,0 +1,223 @@
+
+[
+  {
+    "prompt": "Generate a quote for an oak table.",
+    "completion": "The oak table costs $300 and is made with high-quality wood."
+  },
+  {
+    "prompt": "Generate a quote for a pine chair.",
+    "completion": "The pine chair costs $150 and is made with durable pine wood."
+  },
+  {
+    "prompt": "Generate a quote for a cedar bookshelf.",
+    "completion": "The cedar bookshelf costs $500 and offers durability and style."
+  },
+  {
+    "prompt": "Generate a quote for a mahogany bed.",
+    "completion": "The mahogany bed costs $800 and is made with the finest wood available."
+  },
+  {
+    "prompt": "Generate a quote for a fir door.",
+    "completion": "The fir door costs $200 and is sturdy and elegant."
+  },
+  {
+    "prompt": "Generate a quote for a pine table.",
+    "completion": "The pine table costs $250 and is made with sturdy wood."
+  },
+  {
+    "prompt": "Generate a quote for a mahogany chair.",
+    "completion": "The mahogany chair costs $180 and is made with fine wood."
+  },
+  {
+    "prompt": "Generate a quote for a fir bookshelf.",
+    "completion": "The fir bookshelf costs $450 and offers a classic design."
+  },
+  {
+    "prompt": "Generate a quote for a cedar bed.",
+    "completion": "The cedar bed costs $750 and is made with high-quality wood."
+  },
+  {
+    "prompt": "Generate a quote for an oak door.",
+    "completion": "The oak door costs $220 and is durable and beautiful."
+  },
+  {
+    "prompt": "Generate a quote for a cedar table.",
+    "completion": "The cedar table costs $320 and is made with high-quality wood."
+  },
+  {
+    "prompt": "Generate a quote for a fir chair.",
+    "completion": "The fir chair costs $140 and is durable and comfortable."
+  },
+  {
+    "prompt": "Generate a quote for a pine bookshelf.",
+    "completion": "The pine bookshelf costs $470 and is perfect for storing books."
+  },
+  {
+    "prompt": "Generate a quote for an oak bed.",
+    "completion": "The oak bed costs $900 and is made with high-quality wood."
+  },
+  {
+    "prompt": "Generate a quote for a mahogany door.",
+    "completion": "The mahogany door costs $300 and is sturdy and elegant."
+  },
+  {
+    "prompt": "Generate a quote for a fir table.",
+    "completion": "The fir table costs $280 and is made with sturdy wood."
+  },
+  {
+    "prompt": "Generate a quote for a cedar chair.",
+    "completion": "The cedar chair costs $170 and is comfortable and durable."
+  },
+  {
+    "prompt": "Generate a quote for a mahogany bookshelf.",
+    "completion": "The mahogany bookshelf costs $520 and offers durability and style."
+  },
+  {
+    "prompt": "Generate a quote for a pine bed.",
+    "completion": "The pine bed costs $680 and is made with high-quality wood."
+  },
+  {
+    "prompt": "Generate a quote for a cedar door.",
+    "completion": "The cedar door costs $250 and is sturdy and elegant."
+  },
+  {
+    "prompt": "Generate a quote for a mahogany table.",
+    "completion": "The mahogany table costs $350 and is made with fine wood."
+  },
+  {
+    "prompt": "Generate a quote for an oak chair.",
+    "completion": "The oak chair costs $160 and is durable and comfortable."
+  },
+  {
+    "prompt": "Generate a quote for an oak bookshelf.",
+    "completion": "The oak bookshelf costs $490 and offers a classic design."
+  },
+  {
+    "prompt": "Generate a quote for a fir bed.",
+    "completion": "The fir bed costs $700 and is made with high-quality wood."
+  },
+  {
+    "prompt": "Generate a quote for a pine door.",
+    "completion": "The pine door costs $210 and is durable and beautiful."
+  },
+  {
+    "prompt": "Generate a quote for a walnut table.",
+    "completion": "The walnut table costs $380 and is made with high-quality wood."
+  },
+  {
+    "prompt": "Generate a quote for a walnut chair.",
+    "completion": "The walnut chair costs $170 and is durable and comfortable."
+  },
+  {
+    "prompt": "Generate a quote for a walnut bookshelf.",
+    "completion": "The walnut bookshelf costs $540 and offers durability and style."
+  },
+  {
+    "prompt": "Generate a quote for a walnut bed.",
+    "completion": "The walnut bed costs $950 and is made with the finest wood available."
+  },
+  {
+    "prompt": "Generate a quote for a walnut door.",
+    "completion": "The walnut door costs $300 and is sturdy and elegant."
+  },
+  {
+    "prompt": "Generate a quote for a cherry table.",
+    "completion": "The cherry table costs $370 and is made with high-quality wood."
+  },
+  {
+    "prompt": "Generate a quote for a cherry chair.",
+    "completion": "The cherry chair costs $160 and is comfortable and durable."
+  },
+  {
+    "prompt": "Generate a quote for a cherry bookshelf.",
+    "completion": "The cherry bookshelf costs $530 and offers a classic design."
+  },
+  {
+    "prompt": "Generate a quote for a cherry bed.",
+    "completion": "The cherry bed costs $930 and is made with high-quality wood."
+  },
+  {
+    "prompt": "Generate a quote for a cherry door.",
+    "completion": "The cherry door costs $290 and is durable and beautiful."
+  },
+  {
+    "prompt": "Generate a quote for a beech table.",
+    "completion": "The beech table costs $360 and is made with high-quality wood."
+  },
+  {
+    "prompt": "Generate a quote for a beech chair.",
+    "completion": "The beech chair costs $150 and is durable and comfortable."
+  },
+  {
+    "prompt": "Generate a quote for a beech bookshelf.",
+    "completion": "The beech bookshelf costs $520 and offers durability and style."
+  },
+  {
+    "prompt": "Generate a quote for a beech bed.",
+    "completion": "The beech bed costs $920 and is made with high-quality wood."
+  },
+  {
+    "prompt": "Generate a quote for a beech door.",
+    "completion": "The beech door costs $280 and is sturdy and elegant."
+  },
+  {
+    "prompt": "Generate a quote for a teak table.",
+    "completion": "The teak table costs $390 and is made with high-quality wood."
+  },
+  {
+    "prompt": "Generate a quote for a teak chair.",
+    "completion": "The teak chair costs $180 and is comfortable and durable."
+  },
+  {
+    "prompt": "Generate a quote for a teak bookshelf.",
+    "completion": "The teak bookshelf costs $550 and offers a classic design."
+  },
+  {
+    "prompt": "Generate a quote for a teak bed.",
+    "completion": "The teak bed costs $980 and is made with high-quality wood."
+  },
+  {
+    "prompt": "Generate a quote for a teak door.",
+    "completion": "The teak door costs $320 and is durable and beautiful."
+  },
+  {
+    "prompt": "Generate a quote for a bamboo table.",
+    "completion": "The bamboo table costs $340 and is made with high-quality wood."
+  },
+  {
+    "prompt": "Generate a quote for a bamboo chair.",
+    "completion": "The bamboo chair costs $140 and is durable and comfortable."
+  },
+  {
+    "prompt": "Generate a quote for a bamboo bookshelf.",
+    "completion": "The bamboo bookshelf costs $500 and offers durability and style."
+  },
+  {
+    "prompt": "Generate a quote for a bamboo bed.",
+    "completion": "The bamboo bed costs $900 and is made with high-quality wood."
+  },
+  {
+    "prompt": "Generate a quote for a bamboo door.",
+    "completion": "The bamboo door costs $270 and is sturdy and elegant."
+  },
+  {
+    "prompt": "Generate a quote for a birch table.",
+    "completion": "The birch table costs $350 and is made with high-quality wood."
+  },
+  {
+    "prompt": "Generate a quote for a birch chair.",
+    "completion": "The birch chair costs $150 and is durable and comfortable."
+  },
+  {
+    "prompt": "Generate a quote for a birch bookshelf.",
+    "completion": "The birch bookshelf costs $510 and offers a classic design."
+  },
+  {
+    "prompt": "Generate a quote for a birch bed.",
+    "completion": "The birch bed costs $910 and is made with high-quality wood."
+  },
+  {
+    "prompt": "Generate a quote for a mahogany table.",
+    "completion": "The mahogany table costs $400 and is made with high-quality wood."
+  }
+]
